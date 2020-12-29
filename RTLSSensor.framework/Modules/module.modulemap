@@ -1,0 +1,4 @@
+framework module RTLSSensor {
+  header "RTLSSensor-Swift.h"
+  requires objc
+}
