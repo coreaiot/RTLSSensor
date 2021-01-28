@@ -34,6 +34,11 @@ kotlin
 import com.coreaiot.rtls.sensor.Ble
 
 val ble = Ble(context)
+ble.id = 0x0001
+ble.alarm = false
+ble.battery = 10
+ble.advertiseMode = AdvertiseSettings.ADVERTISE_MODE_BALANCED
+ble.txPowerLevel = AdvertiseSettings.ADVERTISE_TX_POWER_HIGH
 ble.start({ ->
     ok()
 }, { errorCode ->
@@ -55,6 +60,7 @@ class Ble(context: Context)
 /**
 * ID
 * MAC 地址的后两个字节
+* MAC 前 4 个字节固定为 43544d41
 * 值域：[0, 0xffff]
 */
 var id: Int
@@ -80,6 +86,10 @@ var battery: Int
 
 /**
 * 广播频率
+* 可选值
+*   AdvertiseSettings.ADVERTISE_MODE_BALANCED
+*   AdvertiseSettings.ADVERTISE_MODE_LOW_LATENCY
+*   AdvertiseSettings.ADVERTISE_MODE_LOW_POWER
 * 默认为 AdvertiseSettings.ADVERTISE_MODE_BALANCED
 * 详情请看：https://developer.android.com/reference/android/bluetooth/le/AdvertiseSettings
 */
@@ -87,6 +97,11 @@ var advertiseMode: Int
 
 /**
 * 广播功率
+* 可选值
+*   AdvertiseSettings.ADVERTISE_TX_POWER_HIGH
+*   AdvertiseSettings.ADVERTISE_TX_POWER_LOW
+*   AdvertiseSettings.ADVERTISE_TX_POWER_MEDIUM
+*   AdvertiseSettings.ADVERTISE_TX_POWER_ULTRA_LOW
 * 默认为 AdvertiseSettings.ADVERTISE_TX_POWER_HIGH
 * 详情请看：https://developer.android.com/reference/android/bluetooth/le/AdvertiseSettings
 */
@@ -97,6 +112,8 @@ var txPowerLevel: Int
 ```kotlin
 /**
 * 开始广播
+* 调用过会启动蓝牙持续广播
+* 改变属性后需要停止广播，再开始广播
 */
 fun start()
 fun start(callback: (() -> Unit)?)
