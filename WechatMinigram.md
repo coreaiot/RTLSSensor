@@ -33,7 +33,7 @@ wx.createBLEPeripheralServer({
 ```
 
 ## 函数 generateAdvertisingData 参数说明
-```ts
+```typescript
 function generateAdvertisingData(
   /**
   * 操作系统
