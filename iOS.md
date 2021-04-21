@@ -7,7 +7,7 @@
 
 ### Cocoapods （推荐）
 ```ruby
-pod 'RTLSSensor', :git => 'https://github.com/coreaiot/RTLSSensor.git', :tag => '1.0.0'
+pod 'RTLSSensor', :git => 'https://github.com/coreaiot/RTLSSensor.git', :tag => '1.0.1'
 ```
 
 ### 下载地址
