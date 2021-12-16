@@ -2,12 +2,13 @@
 ## 开发环境
 - Xcode 12.3 以上
 - iOS 10.0 以上
+- Swift 版本 5.5
 
 ## 安装
 
 ### Cocoapods （推荐）
 ```ruby
-pod 'RTLSSensor', :git => 'https://github.com/coreaiot/RTLSSensor.git', :tag => '1.0.1'
+pod 'RTLSSensor', :git => 'https://github.com/coreaiot/RTLSSensor.git', :tag => '1.0.2'
 ```
 
 ### 下载地址
@@ -101,6 +102,8 @@ public func stop()
 ```
 
 ## Changelog
+### 1.0.2 iOS SDK - Dec 16, 2021
+- Swift 版本 5.5
 ### 1.0.1 iOS SDK - Apr 15, 2021
 - 添加方法 `onStateChange` 用于多次监听蓝牙状态改变事件。
 - 添加属性 `isAdvertising` 用于获取 `peripheral` 的广播状态。
