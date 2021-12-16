@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/RTLSSensor-Swift.h</key>
 		<data>
-		vdcy+yBOAtekYKQmqWSd8lpwaas=
+		ONf0bLj/4TjEOmkmelxwtBnQkzs=
 		</data>
 		<key>Headers/sensor.h</key>
 		<data>
@@ -14,67 +14,67 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bbnXncHyaj0EV0JPrKbXpdG+zsM=
+		UkCVpijhLVOj05NTIaViLll3fzs=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
-		PxWhCLQ46wPY6vxZvXyInCMe5Ko=
+		5xWCbos1NA+QZr7q6NgxS2LsdkI=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		T4K8ASksfx1cev+Gs9R8/hIKoCs=
+		3newGaI7dGHjQ2Ju2ninil61PSs=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		T4K8ASksfx1cev+Gs9R8/hIKoCs=
+		3newGaI7dGHjQ2Ju2ninil61PSs=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		PxWhCLQ46wPY6vxZvXyInCMe5Ko=
+		5xWCbos1NA+QZr7q6NgxS2LsdkI=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<data>
-		PxWhCLQ46wPY6vxZvXyInCMe5Ko=
+		5xWCbos1NA+QZr7q6NgxS2LsdkI=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/arm.swiftdoc</key>
 		<data>
-		mykdsqpMEGgE3WEfQtN7avmeOdQ=
+		Y4oQm0JPUtsOwq50HIdct07mchk=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/arm.swiftmodule</key>
 		<data>
-		uGUHWXAd31gzBBH1JEHDh9CzcxY=
+		OdltrktV0PPMkWPBgS0q27wb3Us=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		euX+Cv35Qgvx8mqHYyKcNrDGDlE=
+		RCpj+MLza5gwNNymf+dZ4XM7o7k=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		8B1Ns+mKWhdaWjn0lLBEcqOMY0k=
+		oLBZOZ0Xx652FK/t/i/5VIBjqp4=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		euX+Cv35Qgvx8mqHYyKcNrDGDlE=
+		RCpj+MLza5gwNNymf+dZ4XM7o7k=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		8B1Ns+mKWhdaWjn0lLBEcqOMY0k=
+		oLBZOZ0Xx652FK/t/i/5VIBjqp4=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		mykdsqpMEGgE3WEfQtN7avmeOdQ=
+		Y4oQm0JPUtsOwq50HIdct07mchk=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		uGUHWXAd31gzBBH1JEHDh9CzcxY=
+		OdltrktV0PPMkWPBgS0q27wb3Us=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		mykdsqpMEGgE3WEfQtN7avmeOdQ=
+		Y4oQm0JPUtsOwq50HIdct07mchk=
 		</data>
 		<key>Modules/RTLSSensor.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		uGUHWXAd31gzBBH1JEHDh9CzcxY=
+		OdltrktV0PPMkWPBgS0q27wb3Us=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vdcy+yBOAtekYKQmqWSd8lpwaas=
+			ONf0bLj/4TjEOmkmelxwtBnQkzs=
 			</data>
 			<key>hash2</key>
 			<data>
-			phleLMNgW0PZQVqo7w8gii0kVi0CRbnYHHRHBgCICnI=
+			Bu2R9fIWpoE/6mzO6kkNpYkD7ddIE3p7P2oJCok/V3g=
 			</data>
 		</dict>
 		<key>Headers/sensor.h</key>
@@ -109,165 +109,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PxWhCLQ46wPY6vxZvXyInCMe5Ko=
+			5xWCbos1NA+QZr7q6NgxS2LsdkI=
 			</data>
 			<key>hash2</key>
 			<data>
-			iKTY6FmHckzB4kK/6lGpJ+fXcJ5/u0iS/08WA9zNz1E=
+			ec1yRY8N2r8CEApwRiGJP+cdryxeiPw4wiU0bnSeDJ0=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T4K8ASksfx1cev+Gs9R8/hIKoCs=
+			3newGaI7dGHjQ2Ju2ninil61PSs=
 			</data>
 			<key>hash2</key>
 			<data>
-			kv5bhK6D7NS78CxYa5WENlXIVHq9YL0AQ4Fu4IXulgo=
+			oJycCfu5qR1DU0ZMirSaekzaZJ/6JF6AoviIoQlHnX8=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T4K8ASksfx1cev+Gs9R8/hIKoCs=
+			3newGaI7dGHjQ2Ju2ninil61PSs=
 			</data>
 			<key>hash2</key>
 			<data>
-			kv5bhK6D7NS78CxYa5WENlXIVHq9YL0AQ4Fu4IXulgo=
+			oJycCfu5qR1DU0ZMirSaekzaZJ/6JF6AoviIoQlHnX8=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PxWhCLQ46wPY6vxZvXyInCMe5Ko=
+			5xWCbos1NA+QZr7q6NgxS2LsdkI=
 			</data>
 			<key>hash2</key>
 			<data>
-			iKTY6FmHckzB4kK/6lGpJ+fXcJ5/u0iS/08WA9zNz1E=
+			ec1yRY8N2r8CEApwRiGJP+cdryxeiPw4wiU0bnSeDJ0=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PxWhCLQ46wPY6vxZvXyInCMe5Ko=
+			5xWCbos1NA+QZr7q6NgxS2LsdkI=
 			</data>
 			<key>hash2</key>
 			<data>
-			iKTY6FmHckzB4kK/6lGpJ+fXcJ5/u0iS/08WA9zNz1E=
+			ec1yRY8N2r8CEApwRiGJP+cdryxeiPw4wiU0bnSeDJ0=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mykdsqpMEGgE3WEfQtN7avmeOdQ=
+			Y4oQm0JPUtsOwq50HIdct07mchk=
 			</data>
 			<key>hash2</key>
 			<data>
-			iezyAbqCKDlUN7hz2b4fRA3P4jUN5U/36geeybYOqiw=
+			iAvKYyHzFuvpmamUygbTOcS34yqlOO9QE8v05Zi+J2Y=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uGUHWXAd31gzBBH1JEHDh9CzcxY=
+			OdltrktV0PPMkWPBgS0q27wb3Us=
 			</data>
 			<key>hash2</key>
 			<data>
-			UnMHqElRSkZ2oxxoUwHz4+FitV0t8UOi6Z9jYSwGXUs=
+			foKTeC73IDJER1okcKuc4+xMNRUMuew9QoE7DIIDwIU=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			euX+Cv35Qgvx8mqHYyKcNrDGDlE=
+			RCpj+MLza5gwNNymf+dZ4XM7o7k=
 			</data>
 			<key>hash2</key>
 			<data>
-			p5+E3vFPZ72DEfziswShM0hmtKy9PuVsa1E18G4q55E=
+			QTzIs3cRRPKe4dd1w53aAE8yKg1Xig7RhD8MZTChR44=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8B1Ns+mKWhdaWjn0lLBEcqOMY0k=
+			oLBZOZ0Xx652FK/t/i/5VIBjqp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			uj+TlML3tq0QI7kO80TXAx4bIVMT7hb6QbukZVLhbyg=
+			B6Nm9s4qO7k20VeXjCXn+tVnvPfqefPZjsyNWHk4KRo=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			euX+Cv35Qgvx8mqHYyKcNrDGDlE=
+			RCpj+MLza5gwNNymf+dZ4XM7o7k=
 			</data>
 			<key>hash2</key>
 			<data>
-			p5+E3vFPZ72DEfziswShM0hmtKy9PuVsa1E18G4q55E=
+			QTzIs3cRRPKe4dd1w53aAE8yKg1Xig7RhD8MZTChR44=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8B1Ns+mKWhdaWjn0lLBEcqOMY0k=
+			oLBZOZ0Xx652FK/t/i/5VIBjqp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			uj+TlML3tq0QI7kO80TXAx4bIVMT7hb6QbukZVLhbyg=
+			B6Nm9s4qO7k20VeXjCXn+tVnvPfqefPZjsyNWHk4KRo=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mykdsqpMEGgE3WEfQtN7avmeOdQ=
+			Y4oQm0JPUtsOwq50HIdct07mchk=
 			</data>
 			<key>hash2</key>
 			<data>
-			iezyAbqCKDlUN7hz2b4fRA3P4jUN5U/36geeybYOqiw=
+			iAvKYyHzFuvpmamUygbTOcS34yqlOO9QE8v05Zi+J2Y=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uGUHWXAd31gzBBH1JEHDh9CzcxY=
+			OdltrktV0PPMkWPBgS0q27wb3Us=
 			</data>
 			<key>hash2</key>
 			<data>
-			UnMHqElRSkZ2oxxoUwHz4+FitV0t8UOi6Z9jYSwGXUs=
+			foKTeC73IDJER1okcKuc4+xMNRUMuew9QoE7DIIDwIU=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mykdsqpMEGgE3WEfQtN7avmeOdQ=
+			Y4oQm0JPUtsOwq50HIdct07mchk=
 			</data>
 			<key>hash2</key>
 			<data>
-			iezyAbqCKDlUN7hz2b4fRA3P4jUN5U/36geeybYOqiw=
+			iAvKYyHzFuvpmamUygbTOcS34yqlOO9QE8v05Zi+J2Y=
 			</data>
 		</dict>
 		<key>Modules/RTLSSensor.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uGUHWXAd31gzBBH1JEHDh9CzcxY=
+			OdltrktV0PPMkWPBgS0q27wb3Us=
 			</data>
 			<key>hash2</key>
 			<data>
-			UnMHqElRSkZ2oxxoUwHz4+FitV0t8UOi6Z9jYSwGXUs=
+			foKTeC73IDJER1okcKuc4+xMNRUMuew9QoE7DIIDwIU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
