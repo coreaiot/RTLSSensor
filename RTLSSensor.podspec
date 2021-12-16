@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RTLSSensor"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "Coreaiot Sensor SDK"
   s.description  = <<-DESC
   Coreaiot Sensor SDK for iOS
@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => 'https://github.com/coreaiot/RTLSSensor.git', :tag => s.version }
   s.vendored_frameworks = "RTLSSensor.framework"
   s.platform = :ios
-  s.swift_version = "5.3"
+  s.swift_version = "5.5"
   s.ios.deployment_target  = '10.0'
 end
